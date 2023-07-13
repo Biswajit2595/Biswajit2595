@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Biswajit2595.github.io](Biswajit2595.github.io)
+- 👨‍💻 All of my projects are available at [Biswajit2595.github.io](https://biswajit2595.github.io/)
 
 - 💬 Ask me about **JavaScript, React**
 
